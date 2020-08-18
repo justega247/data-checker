@@ -1,0 +1,3 @@
+To get the email server running in the background 
+use ===>
+python -m aiosmtpd -n -l localhost:8025
